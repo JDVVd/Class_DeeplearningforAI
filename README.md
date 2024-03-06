@@ -1,2 +1,2 @@
 ## Class_DeeplearningforAI
-#### this repository is for the class of Deeplearning for AI in 2024-1
+#### This repository is for the class of Deeplearning for AI in 2024-1
